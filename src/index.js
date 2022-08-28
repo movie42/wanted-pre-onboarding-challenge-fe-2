@@ -55,7 +55,6 @@ async function getTodoDetail(id) {}
 /**
  * A updateTodo function update specific todo with id.
  * A updateTodo function requrest HTTP method 'patch'.
- * @tutorial
  * @param {UpdateTodo} props reqired : id, optional : content, completed, category, tags
  * @returns {Promise<Todo>} todo json data about update
  */
