@@ -1,0 +1,13 @@
+{
+  "name": "wanted2",
+  "version": "1.0.0",
+  "description": "jsdoc",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
